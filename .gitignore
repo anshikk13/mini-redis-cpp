@@ -1,0 +1,9 @@
+# Compiled executable
+server
+
+# AOF database file
+appendonly.aof
+
+# Temporary files
+*.o
+*.out
